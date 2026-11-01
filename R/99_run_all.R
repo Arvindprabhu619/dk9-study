@@ -1,0 +1,12 @@
+# R/99_run_all.R -- Master execution script
+source("R/00_setup.R")
+source("R/01_clean.R")
+source("R/02_descriptives.R")
+source("R/03_normality.R")
+source("R/04_primary.R")
+source("R/05_sensitivity.R")
+source("R/05b_secondary_sensitivity.R")
+source("R/06_figures.R")
+source("R/07_null_rigor.R")
+source("R/08_clinical_predictors.R")
+message("\nPipeline complete. Check output/ for tables and figures.")
