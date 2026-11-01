@@ -1,0 +1,7 @@
+variable,normal_overall,decision
+prolactin,FALSE,Use non-parametric (Spearman / Mann-Whitney)
+dass_depression,FALSE,Use non-parametric (Spearman / Mann-Whitney)
+dass_anxiety,TRUE,Parametric OK (Pearson / Welch t)
+dass_stress,TRUE,Parametric OK (Pearson / Welch t)
+dass_total,FALSE,Use non-parametric (Spearman / Mann-Whitney)
+wemwbs,TRUE,Parametric OK (Pearson / Welch t)

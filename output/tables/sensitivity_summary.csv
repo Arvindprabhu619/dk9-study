@@ -1,0 +1,7 @@
+analysis,n_cases,rho_range,any_sig
+S1: Primary n=78,78,"[-0.139, 0.101]",FALSE
+S2: Excl censored,72,"[-0.189, 0.083]",FALSE
+S3: Excl hyperprolactinemic,72,"[-0.127, 0.086]",FALSE
+S4: Excl creatinine 6.8,77,"[-0.132, 0.090]",FALSE
+S5: All 113,113,"[-0.068, -0.007]",FALSE
+S5b: Excl overt hypothyroid,112,"[-0.069, -0.003]",FALSE

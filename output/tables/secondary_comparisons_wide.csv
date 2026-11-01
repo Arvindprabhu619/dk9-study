@@ -1,0 +1,13 @@
+comparison,group1,group2,summary,effect_size,test,p
+gender_clean: prolactin,Female,Male,Female 11.7 vs Male 7.8,rank-biserial r = -0.322,Mann-Whitney U,0.0202
+gender_clean: dass_depression,Female,Male,Female 12 vs Male 13,rank-biserial r = -0.094,Mann-Whitney U,0.5011
+gender_clean: dass_anxiety,Female,Male,Female 16.69 vs Male 14.41,Hedges g = 0.23,Welch t-test,0.3182
+gender_clean: dass_stress,Female,Male,Female 18.98 vs Male 18.11,Hedges g = 0.085,Welch t-test,0.7329
+gender_clean: dass_total,Female,Male,Female 45 vs Male 45,rank-biserial r = -0.072,Mann-Whitney U,0.6067
+gender_clean: wemwbs,Female,Male,Female 44.65 vs Male 48.52,Hedges g = -0.287,Welch t-test,0.2517
+married_binary: prolactin,Married,Not married,Married 8.25 vs Not married 11.8,rank-biserial r = 0.209,Mann-Whitney U,0.1233
+married_binary: wemwbs,Married,Not married,Married 46.92 vs Not married 44.5,Hedges g = 0.178,Welch t-test,0.4303
+employed: prolactin,FALSE,TRUE,FALSE 6.05 vs TRUE 10.45,rank-biserial r = 0.334,Mann-Whitney U,0.0268
+employed: dass_total,FALSE,TRUE,FALSE 68.5 vs TRUE 42.5,rank-biserial r = -0.339,Mann-Whitney U,0.0249
+employed: wemwbs,FALSE,TRUE,FALSE 37.65 vs TRUE 48.86,Hedges g = -0.886,Welch t-test,0.0019
+on_psychotropic: prolactin,Not on psychotropic,On psychotropic,Not on psychotropic 10.5 vs On psychotropic 9.3,rank-biserial r = -0.064,Mann-Whitney U,0.6417

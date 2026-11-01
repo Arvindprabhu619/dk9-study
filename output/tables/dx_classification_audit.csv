@@ -1,0 +1,114 @@
+pid,name,raw_diagnosis,dx_group
+1,Mr Patil Nilesh Shivaji,Adjustment disorder,Stress-related
+2,Mrs Dhane Sheela Satya,MDD,Depressive
+3,Mrs Parit Rekha Mahadev,MDD with Anxious Distress,Depressive
+4,Mr Mali Bapurav Babu,Persistant Depressive Disorder (Dysthymia),Depressive
+5,Mr Mujawar Toshif Altaf,Persistant Depressive Disorder (Dysthymia) with OCD in remission,Depressive
+6,Miss Sheetal Gaikwad,MDD,Depressive
+7,Me Nerlekar Rakmaji Tukaram,MDD with anxious distress with AUD,Depressive
+8,Miss Merwade Nikita,MDD with Anxious Distress,Depressive
+9,Mrs Shaikh Sameena Imran,MDD with Anxious Distress,Depressive
+10,Mrs Pawar Suvarna Velappa,MDD with Anxious Distress,Depressive
+11,Mr Bhosale Tanaji,Generalized Anxiety Disorder,Anxiety
+12,Mrs Sankpal Sindutai Tanaji,Adjustment disorder,Stress-related
+13,Mrs Mandake Suvarna,Generalized Anxiety Disorder,Anxiety
+14,Mr Jivan Jadhav Vilas,MDD,Depressive
+15,Mrs Inamdar Sana Abdul,Adjustment disorder,Stress-related
+16,Dr Ankira Jhawar,Premenstrual Dysphoric disorder,Depressive
+17,Mrs Jayshree Shankar Gujule,Genarilized Anxiety Disorder,Anxiety
+18,Mr Mali Mahadev Bharat,Adjustment disorder,Stress-related
+19,Mrs Suryawanshi Deepali Pramod,MDD,Depressive
+20,Mrs Lalande Maya Balkrishna,Adjustment disorder,Stress-related
+21,Mrs Teli Sharda Sampat,MDD with Tension Type Headache,Depressive
+22,Mr Sanket Suhas Mali,Genarilized Anxiety Disorder,Anxiety
+23,Mr Kamble Tukaram Pandurang,MDD,Depressive
+24,Miss Shiyekar Prathana Milind,Generalized Anxiety Disorder with Tension Type Headache,Anxiety
+25,Mr Koli Arun,MDD with Anxious Distress,Depressive
+26,Mrs Nadaf Sanobar Taslim,MDD with Anxious Distress,Depressive
+27,Mrs Kambale Suman Bayaji,MDD with Anxious Distress,Depressive
+28,Mrs Deepali Yuvraj Karande,Under Observation,Excluded
+29,Mr Kadam Prashant Adhikrao,Under Observation,Excluded
+30,Mr Salunkhe Nivas Vilasrao,Genarilized Anxiety Disorder,Anxiety
+31,Dr Rutuja Vikas Khawale,Under Observation,Excluded
+32,Dr Shrenik Daddi,Under Observation,Excluded
+33,Mrs Pallavi Santosh Inamdar,Under Observation,Excluded
+34,Mrs Shubhangi sandeep patil,MDD with Anxious Distress,Depressive
+35,Mr Patil Abhijit Sarirang,Under Observation,Excluded
+36,Mrs Shaikh Raziya Shaukat,Asjustment disorder with anxiety,Stress-related
+37,Mr Piyush Revan Jangam,MDD with Anxious Distress,Depressive
+38,Dr Shekhar Bhor,MDD,Depressive
+39,Dr Abhay Ajay Vibhute,Under Observation,Excluded
+40,Mrs Mangal Niwas Sawant,MDD with Anxious Distress,Depressive
+41,Miss Vaibhavi Mahadev Mahadik,Genarilized Anxiety Disorder,Anxiety
+42,Miss Patil Vijayarani Shivajirao,Under Observation,Excluded
+43,Miss Thorat Aarti Santosh,Under Observation,Excluded
+44,Mrs Poonam Ashwin Tupe,Recurrent Brief Depression,Depressive
+45,Dr Omkar Rajkumar Shete,Under Observation,Excluded
+46,Mrs Shubhangi Nitin Jamale,MDD with Anxious Distress,Depressive
+47,Miss Vedika Thorat,MDD with Anxious Distress,Depressive
+48,Dr Debasmita Ghosh,Under Observation,Excluded
+49,Dr Akshata Hanamsheeti,Under Observation,Excluded
+50,Mrs Poonam Sanjay Mohite,Generalized Anxiety Disorder,Anxiety
+51,Dr Padmawati K V,Under Observation,Excluded
+52,Mr Mohan Nivruti Jagtap,Adjustment disorder,Stress-related
+53,Dr Arti Navneet Sangani,Adjustment disorder,Stress-related
+54,Mrs Sharada Ashok Jadhav,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+55,Mr Rohit Raghunath Kulkarni,Recurrent Brief Depression,Depressive
+56,Mr Ganesh Shankar Doiphode,MDD with Anxious Distress,Depressive
+57,Mrs Shraddha Sinde Javahar,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+58,Mr Sarang Satish Chothe,Generalized Anxiety Disorder,Anxiety
+59,Mr Ganesh Shivaji Kumbhar,Anxiety Disorder due to another medical condition,Anxiety
+60,Mr Deepak Ramdas Shivdas,Unspecified Mood disorder,Other
+61,Mr Kiran Gaikwad,Panic Disorder,Anxiety
+62,Dr Shivangi Singh,Under Observation,Excluded
+63,Miss Pisal Anuradha Shivaji Rao,Unspecified Anxiety Disorder,Anxiety
+64,Mr Bandgar Aniket Ramdas,MDD with Anxious Distress,Depressive
+65,Dr Jeel Vidja,Panic Disorder,Anxiety
+66,Mrs Vaishali Rahul Yadav,Adjustment disorder,Stress-related
+67,Mrs Vidhya Dilip Pawar,Under Observation,Excluded
+68,Mr Nikam Chandrakant Kundlik,MDD with Anxious Distress,Depressive
+69,Miss More Ankita VIlas,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+70,Mrs Meena Mohan Jagtap,MDD with Anxious Distress,Depressive
+71,Mrs Laxmi Ramesh Patil,Unspecified Anxiety Disorder,Anxiety
+72,Mrs Urmila Sudhir Gaikwad,Under Observation,Excluded
+73,Mrs Vishali Prakash Shinde,Under Observation,Excluded
+74,Mr Patil Somnath Rajaram,Under Observation,Excluded
+75,Mrs Ashwini Shankar Shewale,Under Observation,Excluded
+76,Mr Jagdish Sitaram Ballal,Under Observation,Excluded
+77,Dr Ravindra V Shinde,Under Observation,Excluded
+78,Dr Yash Ratanpal,MDD with Anxious Distress,Depressive
+79,Dr Kruti Patel,Under Observation,Excluded
+80,Mrs Lata Kishor Salunkhe,Unspecified Anxiety Disorder,Anxiety
+81,Mrs Mansi P Awale,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+82,Mrs Neeta Ramesh Shewale,Under Observation,Excluded
+83,Dr Vasantmeghna Murthy,Premenstrual Dysphoric disorder,Depressive
+84,Dr Sunil Hirachand Tetambe,Depression due to another medical condition,Depressive
+85,Mrs Preeti Sanjay Patil,Under Observation,Excluded
+86,Dr Swapna A Shedge,Under Observation,Excluded
+87,Mrs Kshitija Prasad Inamdar,Under Observation,Excluded
+88,Mrs Anita Uttam Barge,Under Observation,Excluded
+89,Mrs Seema Deepak Sawant,Recurrent Brief Depression,Depressive
+90,Mrs Mina Jijaba More,Under Observation,Excluded
+91,Miss Mohite Shardha Shrirang,Genarilized Anxiety Disorder,Anxiety
+92,Miss Pranjal Setul Shah,MDD with Anxious Distress,Depressive
+93,Mrs Shinde Vaishali Prakash,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+94,Miss Roshani Sambhaji Gholap,Under Observation,Excluded
+95,Mrs Swati Amol Pawar,MDD with Anxious Distress,Depressive
+96,Mrs Rupali Sandip Jadhav,MDD with Anxious Distress,Depressive
+97,Mrs Usha Shankar Sonar,Persistant Depressive Disorder (Dysthymia) with anxious disterss,Depressive
+98,Mrs Shelja Patil,Unspecified Anxiety Disorder,Anxiety
+99,Dr Varad Deshmukj,MDD with Anxious Distress,Depressive
+100,Miss Shraddha S Velapure,Unspecified Anxiety Disorder,Anxiety
+101,Danish Sood,Under Observation,Excluded
+102,Mr Sushant Pandit,MDD with Anxious Distress,Depressive
+103,Mrs Dingade Vanita Kakaso,MDD with Anxious Distress,Depressive
+104,Mrs Bhosale Komal Prakash,Under Observation,Excluded
+105,Dr Sagarika Mukund,Unspecified Anxiety Disorder,Anxiety
+106,Dr Siddhant Mahapatra,Under Observation,Excluded
+107,Mrs Rohini Vikram Salunkhe,Under Observation,Excluded
+108,Mrs Reema Abhijit Mohite,Genarilized Anxiety Disorder,Anxiety
+109,Mr Mrunal Patel,MDD with Anxious Distress,Depressive
+110,Dr Jay Shankhala,MDD with Anxious Distress,Depressive
+111,Dr Ajish Mangot,Under Observation,Excluded
+112,Mrs Shirtode Bhagyashree Rahul,MDD,Depressive
+113,Mrs Gaikwad Pranjali Sagar,Genarilized Anxiety Disorder,Anxiety
