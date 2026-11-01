@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+renv/python/
+output/figures/*.tiff
+output/tables/*.csv
+*.Rproj
+.DS_Store
